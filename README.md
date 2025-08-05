@@ -9,7 +9,7 @@ A responsive and interactive product card for showcasing sneakers, built using *
 ## 📸 Preview
 
 ![Sneakers Product Card Screenshot](assets/img/sneakers-preview.png)
-![Sneakers Product Card Screenshot mobile](assets/img/sneakers-preview1.png)
+![Sneakers Product Card Screenshot mobile](assets/img/sneakers-preview1.jpg)
 
 ## ✨ Features
 
