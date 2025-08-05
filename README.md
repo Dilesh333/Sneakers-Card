@@ -4,11 +4,12 @@ A responsive and interactive product card for showcasing sneakers, built using *
 
 ## 🚀 Live Demo
 
-👉 [View Live](https://dilesh333.github.io/Sneakers-Card/)
+👉 [View Live](https://6891f52048804c363fac9cc2--sneakerssss.netlify.app/)
 
 ## 📸 Preview
 
 ![Sneakers Product Card Screenshot](assets/img/sneakers-preview.png)
+![Sneakers Product Card Screenshot mobile](assets/img/sneakers-preview1.png)
 
 ## ✨ Features
 
